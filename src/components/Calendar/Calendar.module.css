@@ -1,0 +1,19 @@
+td {
+    padding: 10px;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    transition: all .2s;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+td:hover {
+    background-color: gainsboro;
+}
+
+.actionButtons {
+    font-size: 5px !important;
+    color: red;
+}
+

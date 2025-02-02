@@ -1,0 +1,43 @@
+.formController {
+    display: flex;
+    flex-direction: column;
+    margin-top: .5rem;
+}
+
+.formController input {
+    border: 1px solid gray;
+    border-radius: .2rem;
+    height: 1.5rem;
+    font-size: large;
+}
+
+.formController label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: .3rem;
+}
+
+.button {
+    background-color: #6610f2;
+    border: .2px solid #6610f2;
+    border-radius: 5px;
+    padding: 1rem;
+    font-size: x-large;
+    color: white;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+.button:hover {
+    background-color: white;
+    color: #6610f2;    
+}
+
+.action {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+}
+
+.action button {
+    flex-grow: 1;
+}
