@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hoseinRezvani.github.io/hoseinRezvani/calendar/",
+  "homepage": "https://hoseinRezvani.github.io/calendar/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
